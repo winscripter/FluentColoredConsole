@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentColoredConsole", "FluentColoredConsole\FluentColoredConsole.csproj", "{C72CF9B1-3A77-4092-B464-50A29768C6C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{320B0819-87BD-4D33-B50B-80F45C42BF17}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentColoredConsole.TestApp", "FluentColoredConsole.TestApp\FluentColoredConsole.TestApp.csproj", "{2C650FA5-A323-40CA-BA91-F8AB1BE641B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72CF9B1-3A77-4092-B464-50A29768C6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72CF9B1-3A77-4092-B464-50A29768C6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72CF9B1-3A77-4092-B464-50A29768C6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72CF9B1-3A77-4092-B464-50A29768C6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C650FA5-A323-40CA-BA91-F8AB1BE641B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C650FA5-A323-40CA-BA91-F8AB1BE641B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C650FA5-A323-40CA-BA91-F8AB1BE641B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C650FA5-A323-40CA-BA91-F8AB1BE641B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9082E1-47CA-4668-B466-5A03E4D19321}
+	EndGlobalSection
+EndGlobal
