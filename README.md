@@ -1,4 +1,7 @@
 # FluentColoredConsole
+![stars](https://img.shields.io/github/stars/winscripter/FluentColoredConsole)
+![type](https://img.shields.io/badge/type-colored_console-blue)
+
 Write barely any C# code only to print text in foreground/background color to console!
 
 Many colors were auto-generated to save up time.
