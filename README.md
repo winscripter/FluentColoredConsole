@@ -1,6 +1,7 @@
 # FluentColoredConsole
 ![stars](https://img.shields.io/github/stars/winscripter/FluentColoredConsole)
 ![type](https://img.shields.io/badge/type-colored_console-blue)
+[![nuget](https://img.shields.io/badge/nuget-open-red)](https://nuget.org/packages/FluentColoredConsole)
 
 Write barely any C# code only to print text in foreground/background color to console!
 
